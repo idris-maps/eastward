@@ -1,0 +1,10 @@
+{"type":"FeatureCollection","features":[
+	{"type":"Feature", "properties": {"name":"Aldeigjuborg","wiki":"Staraya_Ladoga"},"geometry":{"type":"Point","coordinates":[32.3,59.983333]}},
+	{"type":"Feature", "properties": {"name":"Holmgarðr","wiki":"Veliky_Novgorod"},"geometry":{"type":"Point","coordinates":[31.266667,58.55]}},
+	{"type":"Feature", "properties": {"name":"Sýrnes","wiki":"Gnezdovo"},"geometry":{"type":"Point","coordinates":[31.783333,54.766667]}},
+	{"type":"Feature", "properties": {"name":"Kœnugarðr","wiki":"Kiev"},"geometry":{"type":"Point","coordinates":[30.523333,50.45]}},
+	{"type":"Feature", "properties": {"name":"Paltejsborg","wiki":"Polotsk"},"geometry":{"type":"Point","coordinates":[28.8,55.483333]}},
+	{"type":"Feature", "properties": {"name":"Súrsdalar","wiki":"Suzdal"},"geometry":{"type":"Point","coordinates":[40.45,56.416667]}},
+	{"type":"Feature", "properties": {"name":"Móramar","wiki":"Murom"},"geometry":{"type":"Point","coordinates":[42.033333,55.566667]}},
+	{"type":"Feature", "properties": {"name":"Ráðstofa","wiki":"Rostov"},"geometry":{"type":"Point","coordinates":[39.416667,57.183333]}}	
+]}
